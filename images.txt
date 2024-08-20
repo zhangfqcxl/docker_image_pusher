@@ -1,5 +1,4 @@
-frooodle/s-pdf
-apache/doris:2.1.5-be-x86_64
 apache/doris:2.1.5-fe-x86_64
+apache/doris:2.1.5-be-x86_64
 
 
