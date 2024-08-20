@@ -1,4 +1,4 @@
-apache/doris:2.1.5-fe-x86_64
-apache/doris:2.1.5-be-x86_64
+apache/doris:2.0.3-be-x86_64
+apache/doris:2.0.3-fe-x86_64
 
 
