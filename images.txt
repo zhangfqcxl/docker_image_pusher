@@ -1,4 +1,5 @@
 apache/doris:2.0.3-be-x86_64
 apache/doris:2.0.3-fe-x86_64
+docker.io/rancher/rancher-agent:v2.7.9
 
 
