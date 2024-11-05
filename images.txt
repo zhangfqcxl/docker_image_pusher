@@ -1,5 +1,6 @@
 
-docker.io/rancher/rancher-agent:v2.7.9
-cattle-cluster-agent
+
+docker.io/rancher/rancher-webhook:v0.3.6
+docker.io/rancher/shell:v0.1.21
 
 
