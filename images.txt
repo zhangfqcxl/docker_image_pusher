@@ -1,3 +1,4 @@
 rancher/rancher:v2.9.3
+rancher/cattle-cluster-agent:latest
 
 
