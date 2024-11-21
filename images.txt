@@ -1,2 +1,2 @@
-rancher/mirrored-library-traefik:2.6.2
-rancher/klipper-lb:v0.3.5
+flannel/flannel:v0.26.1
+flannel/flannel-cni-plugin:v1.6.0-flannel1
