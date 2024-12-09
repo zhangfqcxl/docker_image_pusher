@@ -1,4 +1,4 @@
-keking/kkfileview
+apacherocketmq/rocketmq-dashboard:latest
 
 
 
