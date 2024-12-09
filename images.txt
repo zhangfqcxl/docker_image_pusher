@@ -1,5 +1,4 @@
- minio/minio
-redis:6.2.6
+keking/kkfileview
 
 
 
