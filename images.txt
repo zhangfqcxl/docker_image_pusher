@@ -1,5 +1,5 @@
 apacherocketmq/rocketmq-dashboard:latest
-paddlepaddle/paddleocr:latest
+paddlecloud/paddleocr:2.6-cpu-latest
 
 
 
