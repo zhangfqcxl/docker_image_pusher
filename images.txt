@@ -1,4 +1,5 @@
 apacherocketmq/rocketmq-dashboard:latest
+paddlepaddle/paddleocr:latest
 
 
 
