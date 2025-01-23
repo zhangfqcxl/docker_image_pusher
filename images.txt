@@ -1,4 +1,4 @@
-987846/paddleocr:latest
+gswyhq/paddleocr:hubserving
 
 
 
