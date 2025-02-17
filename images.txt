@@ -1,4 +1,5 @@
-gswyhq/paddleocr:hubserving
+apache/doris:be-2.1.7
+apache/doris:fe-2.1.7
 
 
 
