@@ -1,4 +1,4 @@
-apache/doris:build-env-ldb-toolchain-latest
+apache/doris:be-3.0.3
 
 
 
