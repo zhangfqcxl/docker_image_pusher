@@ -1,5 +1,5 @@
-apache/doris:be-2.1.7
-apache/doris:fe-2.1.7
+apache/doris:fe-ubuntu-2.1.7
+apache/doris:be-ubuntu-2.1.7
 
 
 
