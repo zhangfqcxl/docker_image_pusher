@@ -1,5 +1,4 @@
-apache/doris:fe-ubuntu-2.1.7
-apache/doris:be-ubuntu-2.1.7
+apache/doris:build-env-ldb-toolchain-latest
 
 
 
