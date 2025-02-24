@@ -1,4 +1,5 @@
-apache/doris:be-3.0.3
+ollama/ollama
+farismnrr/open-web-ui
 
 
 
