@@ -1,4 +1,4 @@
-chainguard/qdrant
+qdrant/qdrant:latest
 
 
 
