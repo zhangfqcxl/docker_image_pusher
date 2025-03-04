@@ -1,5 +1,4 @@
-ollama/ollama
-farismnrr/open-web-ui
+chainguard/qdrant
 
 
 
