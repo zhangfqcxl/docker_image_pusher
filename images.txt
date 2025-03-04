@@ -1,4 +1,4 @@
-redis:latest
+vllm/vllm-openai:latest
 
 
 
