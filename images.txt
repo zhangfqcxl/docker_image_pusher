@@ -1,4 +1,4 @@
-qdrant/qdrant:latest
+milvusdb/milvus:latest
 
 
 
