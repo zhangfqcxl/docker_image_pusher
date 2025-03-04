@@ -1,4 +1,4 @@
-milvusdb/milvus:latest
+redis:latest
 
 
 
