@@ -1,1 +1,1 @@
-marqoai/marqo
+qdrant/qdrant:latest
