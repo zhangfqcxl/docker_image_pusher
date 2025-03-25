@@ -1,1 +1,1 @@
-qdrant/qdrant:latest
+xprobe_xinference/xinference:latest
