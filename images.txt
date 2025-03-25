@@ -1,1 +1,1 @@
-xprobe_xinference/xinference:latest
+xprobe/xinference:latest
