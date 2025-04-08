@@ -1,1 +1,1 @@
-xprobe/xinference:latest
+node:20-slim
