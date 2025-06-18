@@ -1,1 +1,1 @@
-node:20-slim
+keking/kkfileview:latest
